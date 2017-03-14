@@ -1,0 +1,10 @@
+Version 1.0
+i) Intial version Release
+
+
+Version pro2.0
+i)   Excerpt length manageable
+ii)  woocommerce sidebar manageable
+iii) slider Option and loader
+iv)  Read More Text Manaable
+vi)  Logo height manageable
